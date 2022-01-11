@@ -1,0 +1,13 @@
+.root {
+}
+
+.root:focus .image {
+  border-color: red;
+}
+
+.inner {
+  position: relative;
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
